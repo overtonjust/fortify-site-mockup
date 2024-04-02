@@ -10,5 +10,5 @@
 
 - This project was made using HTML and SCSS and does not have any functionality to visit or interact with the site. For actual electric visit needs please visit the real site https://gorevel.com/ 
 
-## My link
- -
+- [My link](https://overtonjust.github.io/fortify-site-mockup/)
+ 
